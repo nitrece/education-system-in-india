@@ -96,3 +96,5 @@ neighbourhood. Unaided and private schools shall ensure that children from
 weaker sections and disadvantaged groups shall not be segregated from the
 other children in the classrooms nor shall their classes be held at places
 and timings different from the classes held for the other children.
+
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/education-system-in-india)
